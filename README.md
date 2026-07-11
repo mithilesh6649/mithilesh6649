@@ -84,7 +84,7 @@
   <a href="https://senior-backend-portfolio.vercel.app" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/mithileshkumar" target="_blank">
+  <a href="https://www.linkedin.com/in/mithilesh-kumar-44ba431b7" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mithileshkumar7651@gmail.com">
