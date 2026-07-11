@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning and integrating **AI/ML (Python, OpenAI APIs, LLMs)** to build smart features into applications.
 - 👯 I’m looking to collaborate on Open Source projects and innovative AI-driven tools.
 - 💬 Ask me about **Laravel, Node.js, React, and System Design**.
-- 📫 How to reach me: [mithileshkumar6649@gmail.com](mailto:mithileshkumar6649@gmail.com)
+- 📫 How to reach me: [mithileshkumar7651@gmail.com](mailto:mithileshkumar7651@gmail.com)
 - ⚡ Fun fact: When I'm not coding, I'm probably exploring new tech trends, experimenting with creative ideas, or enjoying a good book.
 
 ---
@@ -42,26 +42,35 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
-**Databases & Cloud**
+**Databases & DevOps**
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+  <a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
 
 <p align="center">
   <a href="https://github.com/mithilesh6649">
     <img src="https://github-readme-stats.vercel.app/api?username=mithilesh6649&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mithilesh's GitHub Stats" />
   </a>
   <a href="https://github.com/mithilesh6649">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithilesh6649&theme=radical&hide_border=true&background=0D1117" alt="Mithilesh's Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithilesh6649&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
+</p>
+
+<!-- GitHub Snake Contribution Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mithilesh6649/mithilesh6649/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mithilesh6649/mithilesh6649/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mithilesh6649/mithilesh6649/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -72,9 +81,13 @@
   <a href="https://linkedin.com/in/mithileshkumar" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mithileshkumar6649@gmail.com">
+  <a href="mailto:mithileshkumar7651@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <!-- Uncomment and update if you have a portfolio! -->
+  <!-- <a href="https://yourportfolio.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a> -->
 </p>
 
 <br>
