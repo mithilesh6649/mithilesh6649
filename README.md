@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mithilesh Kumar</h1>
-<h3 align="center">Full-Stack Developer | Innovator | Exploring AI & ML</h3>
+<h3 align="center">Senior Full-Stack Developer | Gen AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mithilesh6649&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  I'm a passionate full-stack developer specializing in <strong>Laravel, Node.js, and React</strong>. Recently, I've been expanding my expertise into the world of <strong>Artificial Intelligence and Machine Learning</strong>, aiming to build smarter, data-driven web applications. I thrive on turning complex problems into elegant, scalable solutions and creating seamless user experiences.
+  I'm a passionate Senior Full-Stack Developer specializing in <strong>Laravel, Node.js, and React</strong>. Recently, I've been diving deep into the world of <strong>Generative AI, Large Language Models (LLMs), and Vector Databases</strong>, aiming to build smarter, data-driven web applications. I thrive on turning complex problems into elegant, scalable solutions and creating seamless user experiences.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on scalable backend architectures and modern web apps.
-- 🌱 I’m currently learning and integrating **AI/ML (Python, OpenAI APIs, LLMs)** to build smart features into applications.
+- 🔭 I’m currently working on scalable backend architectures, modern web apps, and **Gen AI** integrations.
+- 🌱 I’m currently mastering **Generative AI, Prompt Engineering, Vector Databases (Pinecone, ChromaDB, etc.), and LLMs**.
+- 📊 **Check out my Hugging Face Dataset:** [Ultimate Prompt Engineering Pack](https://huggingface.co/datasets/CodeWithMith/ultimate-prompt-engineering-pack/viewer)
 - 👯 I’m looking to collaborate on Open Source projects and innovative AI-driven tools.
-- 💬 Ask me about **Laravel, Node.js, React, and System Design**.
+- 💬 Ask me about **Laravel, Node.js, React, System Design, and Gen AI**.
 - 📫 How to reach me: [mithileshkumar7651@gmail.com](mailto:mithileshkumar7651@gmail.com)
-- ⚡ Fun fact: When I'm not coding, I'm probably exploring new tech trends, experimenting with creative ideas, or enjoying a good book.
+- ⚡ Fun fact: When I'm not coding, I'm probably exploring new tech trends, experimenting with creative AI ideas, or enjoying a good book.
 
 ---
 
@@ -29,17 +30,19 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
 </p>
 
-**AI & Machine Learning**
+**Gen AI & Machine Learning**
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <img src="https://img.shields.io/badge/AI_Integration-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <a href="https://huggingface.co/CodeWithMith" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <img src="https://img.shields.io/badge/Gen_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Gen AI"/>
+  <img src="https://img.shields.io/badge/Vector_DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Vector DB"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=asterisk&logoColor=white" alt="Prompt Engineering"/>
 </p>
 
 **Databases & DevOps**
@@ -78,16 +81,18 @@
 ### 🤝 Connect with me
 
 <p align="left">
+  <a href="https://senior-backend-portfolio.vercel.app" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/mithileshkumar" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mithileshkumar7651@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Uncomment and update if you have a portfolio! -->
-  <!-- <a href="https://yourportfolio.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-  </a> -->
+  <a href="https://huggingface.co/CodeWithMith" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  </a>
 </p>
 
 <br>
