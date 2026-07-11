@@ -60,10 +60,10 @@
 
 <p align="center">
   <a href="https://github.com/mithilesh6649">
-    <img src="https://github-readme-stats.vercel.app/api?username=mithilesh6649&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mithilesh's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mithilesh6649&show_icons=true&theme=radical" alt="Mithilesh's GitHub Stats" />
   </a>
   <a href="https://github.com/mithilesh6649">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithilesh6649&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithilesh6649&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
